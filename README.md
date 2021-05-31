@@ -1,16 +1,6 @@
-# whatsapp_navigation
+# Whatsapp Navigation with Flutter app
 
-A new Flutter application.
+Many times, we face the issue of saving a Whatsapp contact before starting a chat.
+Like if we want to just share the grocery list with the shopkeeper then we have to save that number, to make it simple this app will be helpful where you can enter your phone number and click on the "Open WhatsApp" button which will open WhatsApp chat for that number. App also allows to generate QR code for Whatsapp and scan QR code of WhatsApp.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This App will be useful in various scenarios.
